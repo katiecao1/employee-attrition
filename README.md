@@ -1,2 +1,2 @@
-# employee-attrition-prediction
+# employee-attrition
 IBM Employee Attrition Prediction
